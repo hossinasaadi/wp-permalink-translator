@@ -1,3 +1,4 @@
+Feel free to Contribute :) ❤️
 
 == Description ==
 
@@ -6,6 +7,9 @@ Allow admins to translate Permalink to another languages.
 ### Development
 [https://github.com/hossinasaadi/wp-permalink-translator/](https://github.com/hossinasaadi/wp-permalink-translator/ "https://github.com/hossinasaadi/wp-permalink-translator")
 
+Preview :
+![alt text](https://github.com/hossinasaadi/wp-permalink-translator/blob/master/screenshot-1.jpg)
+![alt text](https://github.com/hossinasaadi/wp-permalink-translator/blob/master/screenshot-2.jpg)
 
 == Installation ==
 
